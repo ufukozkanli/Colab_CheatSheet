@@ -7,6 +7,7 @@
 	
 ## LINK DIRECTORY
 	!ln -s "/content/drive/My Drive/colab_shared/"  "/content/DIRECTORYNAME"
+	!rm "/content/DIRECTORYNAME"
 	
 ## GIT & BITBUCKET 
 
