@@ -1,4 +1,4 @@
-# Colab CheatSheet
+# Colab Cheat Sheet
 
 ## GOOGLE DRIVE
 
