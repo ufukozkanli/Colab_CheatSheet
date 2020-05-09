@@ -6,13 +6,12 @@
 	drive.mount('/content/drive') 
 	
 ## LINK DIRECTORY
-	ln -s "/content/drive/My Drive/colab_shared/"  "/content/DIRECTORYNAME"
+	!ln -s "/content/drive/My Drive/colab_shared/"  "/content/DIRECTORYNAME"
 	
 ## GIT & BITBUCKET 
 
-	git clone https://username:pwd@bitbucket.org/REPOADDRESS
-
-	git switch -t "remotes/origin/BRANCHNAME"
+	!git clone https://username:pwd@bitbucket.org/REPOADDRESS
+	!git switch -t "remotes/origin/BRANCHNAME"
 
 ## ZIP & UNZIP
 
